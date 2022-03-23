@@ -1,13 +1,21 @@
 ### Hello!! Drew Nelson here 👋
 
 - 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
-- 🌱 I’m currently learning <b></b>
-- 👯 I’m looking to collaborate on <b></b>
-- 🤔 I’m looking for help with <b></b>
-- 💬 Ask me about <b></b>
-- 📫 How to reach me: <b></b>
-- 😄 Pronouns: <b></b>
-- ⚡ Fun fact: <b></b>
+- 🌱 I’m currently learning <b>the best methods I can on how to whiteboard</b>
+- 👯 I’m looking to collaborate on <b>the above mentioned tracking sheet project with a Swift dev</b>
+- 🤔 I’m looking for help with <b>finding the best direction for long term wholistic success</b>
+- 💬 Ask me about <b>the value of coaching and mentorship</b>
+- 😄 Pronouns: <b>He/Him</b>
+- ⚡ Fun fact: <b>Legos are the most amazing thing in the world</b>
+- 📫 How to reach me: 
+
+  <a href="mailto:realseal177@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Drew Nelson's gmail" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nelsonandrew17/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Drew Nelson's LinkedIn Profile" height="30" width="30">
+  </a>
 
 ### 🛠 | Tech Stack
 
