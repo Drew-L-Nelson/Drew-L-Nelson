@@ -1,18 +1,19 @@
 ### Hello!! Drew Nelson here 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
+- 🌱 I’m currently learning <b></b>
+- 👯 I’m looking to collaborate on <b></b>
+- 🤔 I’m looking for help with <b></b>
+- 💬 Ask me about <b></b>
+- 📫 How to reach me: <b></b>
+- 😄 Pronouns: <b></b>
+- ⚡ Fun fact: <b></b>
 
 ### 🛠 | Tech Stack
 
 - 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
