@@ -1,6 +1,6 @@
 ### Hello!! Drew Nelson here 👋
 
-- 🧠 My primary tech interests are <b>Ecommerce, Cybersecurity, and optimizing the customer experience</b>
+- 🧠 My primary tech interests are <b>Ecommerce, Cybersecurity, and optimizing the customer experien</b>
 - 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
 - 🌱 I’m currently learning <b>the best methods I can on how to whiteboard</b>
 - 🤝 I’m looking to collaborate on <b>the above mentioned tracking sheet project with a Swift dev</b>
