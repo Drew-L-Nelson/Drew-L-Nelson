@@ -2,7 +2,7 @@
 
 - 🧠 My primary tech interests are <b>Ecommerce, Cybersecurity, and optimizing the customer experience</b>
 - 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
-- 🌱 I’m currently learning <b>the best methods I can on how to whiteboard</b>
+- 🌱 I’m currently learning <b>optimal whiteboarding methods</b>
 - 🤝 I’m looking to collaborate on <b>the above mentioned tracking sheet project with a Swift dev</b>
 - 🤔 I’m looking for help with <b>finding the best direction for long term wholistic success</b>
 - 💬 Ask me about <b>the value of coaching and mentorship</b>
