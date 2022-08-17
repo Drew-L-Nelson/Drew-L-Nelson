@@ -2,7 +2,7 @@
 
 - 🧠 My primary tech interests are <b>Ecommerce and optimizing the customer experience</b>
 - 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
-- 🌱 I’m currently learning <b>optimal whiteboarding methods</b>
+- 🌱 I’m currently learning <b>C# and Firebas</b>
 - 🤝 I’m looking to collaborate on <b>the above mentioned tracking sheet project with a Swift dev</b>
 - 🤔 I’m looking for help with <b>finding the best direction for long term wholistic success</b>
 - 💬 Ask me about <b>the value of coaching and mentorship</b>
@@ -21,6 +21,7 @@
 ### 🛠 | Tech Stack
 
 - 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
