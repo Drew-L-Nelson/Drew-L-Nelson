@@ -21,7 +21,7 @@
 ### 🛠 | Tech Stack
 
 - 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c#)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
