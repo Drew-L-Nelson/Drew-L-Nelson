@@ -10,11 +10,11 @@
 - ⚡ Fun fact: <b>Legos are the most amazing thing</b>
 - 📫 How to reach me: 
 
-  <a href="mailto:realseal177@gmail.com">
+  <a href="mailto:realseal177@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Drew Nelson's gmail" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/nelsonandrew17/">
+  <a href="https://www.linkedin.com/in/nelsonandrew17/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Drew Nelson's LinkedIn Profile" height="30" width="30">
   </a>
 
