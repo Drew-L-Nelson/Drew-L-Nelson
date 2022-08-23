@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Drew Nelson's gmail" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/nelsonandrew17/" target="_blank">
+  <a href="https://www.linkedin.com/in/nelsonandrew17/" target="_blank" rel="noreferrer noopener">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Drew Nelson's LinkedIn Profile" height="30" width="30">
   </a>
 
