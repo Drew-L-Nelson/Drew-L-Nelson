@@ -3,7 +3,7 @@
 - 🧠 My primary tech interests are <b>Ecommerce and Software Subscription Sales</b>
 - 🔭 I’m currently working on <b>a collaberative tracking sheet project</b>
 - 🌱 I’m currently learning <b>C# and Firebase</b>
-- 🤝 I’m looking to collaborate on <b>the above mentioned tracking sheet project with a Swift dev</b>
+- 🤝 I’m looking to collaborate on <b>anything to do with React.js</b>
 - 🤔 I’m looking for help with <b>finding the best direction for long term wholistic success</b>
 - 💬 Ask me about <b>the value of coaching and mentorship</b>
 - 🎮 The best video game of all time is arguably: <b>Half-Life 2</b>
