@@ -31,6 +31,7 @@
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🛢 &#160; ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
