@@ -6,7 +6,7 @@
 - 🤝 I’m looking to collaborate on <b>anything to do with React.js</b>
 - 🤔 I’m looking for help with <b>finding the best direction for long term wholistic success</b>
 - 💬 Ask me about <b>the value of coaching and mentorship</b>
-- 🎮 The best video game of all time is: <b>Half-Life 2</b>
+- 🎮 The best video game of all time is <b>Half-Life 2</b>
 - ⚡ Fun fact: <b>Legos are the most amazing thing</b>
 - 📫 How to reach me: 
 
